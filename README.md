@@ -5,8 +5,9 @@
 - vuex ^3.2.0
 - vuex-persistedstate ^3.0.1
 - axios ^0.19.2
-- webpack sass eslint
-- production ready with both Zopfli and Brotli compression build, chunked assets
+- webpack 4
+- sass eslint django-webpack-loader
+- production ready with both Zopfli and Brotli [compression](https://webpack.js.org/plugins/compression-webpack-plugin/) build, [chunked](https://webpack.js.org/plugins/split-chunks-plugin/) assets
 
 ## project env setup
 ```

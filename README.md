@@ -41,3 +41,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+### further info
+my codes based on this [article](https://ilikerobots.github.io/django/vue/software/2019/05/26/django-and-vue-multipage.html).
+

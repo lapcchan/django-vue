@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load render_bundle from webpack_loader %}
+
+{% block content %}
+
+    <h3>My first Vue app goes here</h3>
+
+    <div id="app">
+        <app></app>
+    </div>
+    {% render_bundle 'vue' %}
+    {% render_bundle 'vuetify' %}
+    {% render_bundle 'vuetify_demo' %}
+
+{% endblock %}

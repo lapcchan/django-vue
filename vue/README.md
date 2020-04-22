@@ -20,5 +20,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### further info
+my codes based on this [article](https://ilikerobots.github.io/django/vue/software/2019/05/26/django-and-vue-multipage.html).

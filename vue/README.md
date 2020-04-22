@@ -20,5 +20,3 @@ yarn build
 yarn lint
 ```
 
-### further info
-my codes based on this [article](https://ilikerobots.github.io/django/vue/software/2019/05/26/django-and-vue-multipage.html).

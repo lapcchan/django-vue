@@ -28,6 +28,7 @@ SECRET_KEY = '@$kfs8c-2hf9ba=(zlw@i@-&)a5fn$vp(n(b6%eb2f+m1uz4#u'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'localhost',
 ]
 
 

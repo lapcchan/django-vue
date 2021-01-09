@@ -1,10 +1,10 @@
-# django 3.0.5 with vue non-SPA or hybird mode
+# django 3.1.0 with vue non-SPA or hybird mode
 
-- vuetify ^2.2.11
+- vuetify ^2.4.1
 - vue ^2.6.11
-- vuex ^3.2.0
+- vuex ^3.5.1
 - vuex-persistedstate ^3.0.1
-- axios ^0.19.2
+- axios ^0.21.1
 - webpack 4
 - sass eslint django-webpack-loader
 - production ready with both Zopfli and Brotli [compression](https://webpack.js.org/plugins/compression-webpack-plugin/) build, [chunked](https://webpack.js.org/plugins/split-chunks-plugin/) assets

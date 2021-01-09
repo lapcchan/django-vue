@@ -1,4 +1,4 @@
-# django 3.0.5 with vue non-SPA or hybird mode
+# django 3.0.5 with vue non-SPA or hybrid mode
 
 - vuetify ^2.2.11
 - vue ^2.6.11

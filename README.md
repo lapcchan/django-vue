@@ -1,4 +1,5 @@
-# django 3.1.0 with vue non-SPA or hybird mode
+# django 3.1.0 with vue non-SPA or hybrid mode
+
 
 - vuetify ^2.4.1
 - vue ^2.6.11
@@ -10,7 +11,7 @@
 - production ready with both Zopfli and Brotli [compression](https://webpack.js.org/plugins/compression-webpack-plugin/) build, [chunked](https://webpack.js.org/plugins/split-chunks-plugin/) assets
 
 
-Everyone knows the advantage of SPA nowaday but theres always a reason not to use SPA, especially for enterprise grade application with some high volume marketing landing page,  you want to avoid preloading all code while you still want to share codes and keep them maintainable, it's when you need hybird mode with django 
+Everyone knows the advantage of SPA nowaday but theres always a reason not to use SPA, especially for enterprise grade application with some high volume marketing landing page,  you want to avoid preloading all code while you still want to share codes and keep them maintainable, it's when you need hybrid mode with django 
 
 
 ## project env setup

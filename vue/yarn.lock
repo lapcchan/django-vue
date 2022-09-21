@@ -8185,10 +8185,10 @@ vuetify-loader@^1.6.0:
     file-loader "^4.0.0"
     loader-utils "^1.2.0"
 
-vuetify@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.4.1.tgz#816e5026b0690654ae9947161ac9d35c8fee0428"
-  integrity sha512-gFLq3LYh8xJlMmt8Vw+DSYb0NTE0Q7fRMqZMkO/EOba4l2Agssw8Qupy+zhicgJxbbb4FEkD24nuh+EuGeuB+A==
+vuetify@2.6.10:
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.6.10.tgz#b86cd7a97bf8cd3828a72c349795b5b3c539ebc2"
+  integrity sha512-fgUeRDDCwYkwu6WGEEKGe7IdfzOsXJCZGrqkn1pcS2ycuoDL8mR2/dejH5iFNnBY6MnsT365PAGn0J+9otjfQg==
 
 vuex-persistedstate@^3.1.0:
   version "3.1.0"
